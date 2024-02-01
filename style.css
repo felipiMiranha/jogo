@@ -1,0 +1,16 @@
+body{
+    background:rgb(41, 6, 243);
+    color: aliceblue;
+}
+
+.login_div{
+background:rgb(0, 217, 255);
+padding:10px;
+border-radius:15px;
+margin-top:20px;
+}
+
+#btn{
+    color: rgb(250, 250, 250);
+    font-size:20px;
+}
